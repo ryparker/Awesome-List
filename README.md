@@ -2,6 +2,10 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+[Github Pagess](https://ryparker.github.io/Awesome-List/)
+
+---
+
 - [My Awesome list](#my-awesome-list)
   - [Blogs](#blogs)
   - [Videos](#videos)
