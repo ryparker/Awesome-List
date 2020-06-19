@@ -11,14 +11,6 @@ A list of my favorite findings in the software industry.
 - [Ryan Parker's Awesome List](#ryan-parkers-awesome-list)
   - [Blogs](#blogs)
   - [Videos](#videos)
-    - [One of a kind](#one-of-a-kind)
-    - [News](#news)
-    - [Modern Software](#modern-software)
-    - [Computer Science](#computer-science)
-    - [Agile Methodology](#agile-methodology)
-    - [Industry](#industry)
-    - [History](#history)
-    - [Conferences](#conferences)
   - [Books](#books)
   - [Chrome Dev Tools](#chrome-dev-tools)
   - [Linters](#linters)
@@ -85,17 +77,17 @@ Platforms
 
 ## Videos
 
-### One of a kind
+One of a kind
 
 - [ITkonekt 2019 | Robert C. Martin (Uncle Bob), Clean Architecture and Design](https://www.youtube.com/watch?v=2dKZ-dWaCiU&list=WL&index=2&t=0s)
 
-### News
+News
 
 - [Google Chrome Developers](https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw) - Chrome updates explained and optimization tips to get the most out of websites.
 
 - [Google Developers](https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw) - Announcements on updates and new resources in Google's ecosystem.
 
-### Modern Software
+Modern Software
 
 - [Frontend Masters](https://frontendmasters.com/) - Probably the best frontend development courses.
 
@@ -105,27 +97,27 @@ Platforms
 
 - [Learn with Jason](https://www.youtube.com/watch?v=yhfGEpGalSg&list=PLz8Iz-Fnk_eTpvd49Sa77NiF8Uqq5Iykx) - Jason live codes with developers from emerging tech companies/startups to showcase how you can use the latest trend in your next project.
 
-### Computer Science
+Computer Science
 
 - [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA) - Computer science topics & history explained.
 
-### Agile Methodology
+Agile Methodology
 
 - [Development that pays](https://www.youtube.com/channel/UCVHTu50vmvVA0OtkGBJlGPw) - Breaks down what Agile is and why.
 
-### Industry
+Industry
 
 - [TechLead](https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw) - Ex-Google / Facebook developer who talks about the pros/cons of todays software giants and the software industry as a whole.
 
 - [Section4](https://www.youtube.com/channel/UCDhrtgAGXyecXofKYBNpRqA) - A business perspective on the software industry.
 
-### History
+History
 
 - [Ars Technica](https://www.youtube.com/channel/UCCDU1fsmgvWljcW2aodfJsA) - Video game developers telling war stories.
 
 - [Kurzgesagt](https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q) - Beautifully animated videos that simplify controversial research studies.
 
-### Conferences
+Conferences
 
 - [DEFCON](https://www.youtube.com/user/DEFCONConference/videos) - Cyber security and software vulnerabilities
 
