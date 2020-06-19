@@ -31,7 +31,7 @@ A list of my favorite findings in the software industry.
 
 ---
 
-## ?? Blogs
+## 📰 Blogs
 
 Company
 
@@ -50,7 +50,7 @@ Platforms
 
 ---
 
-## ?? Videos
+## 📺 Videos
 
 One of a Kind
 
@@ -100,7 +100,7 @@ Conferences
 
 ---
 
-## ?? Books
+## 📚 Books
 
 Life changing
 
@@ -180,13 +180,13 @@ Interviews
 
 ---
 
-## ?? Chrome Dev Tools
+## 🔧 Chrome Dev Tools
 
 - [Code-Snippets](https://github.com/bahmutov/code-snippets) - Performance, debugging and testing code snippets to be run in Chrome DevTools.
 
 ---
 
-## ?? JSON Schema
+## 🔏 JSON Schema
 
 - [Schema Tools](https://github.com/cypress-io/schema-tools) - TS - Validate, sanitize and document JSON schemas.
 
@@ -196,13 +196,13 @@ Interviews
 
 - [Justify](https://github.com/leadpony/justify) - Java - Justify is a JSON validator based on JSON Schema Specification and Jakarta JSON Processing API (JSON-P).
 
-## ?? OpenAPI
+## 🔏 OpenAPI
 
 - [List of tools](https://openapi.tools/#sdk)
 
 ---
 
-## ?VSCode
+## ✍️ VSCode
 
 - [VSCode Recipes](https://github.com/microsoft/vscode-recipes) - A collection of recipes for using VS Code with particular technologies.
 
@@ -210,7 +210,7 @@ Interviews
 
 ---
 
-## ? Services
+## ✨ Services
 
 Component library
 
@@ -218,7 +218,7 @@ Component library
 
 ---
 
-## ?? Terminal
+## 📟 Terminal
 
 - [NodeJS Dashboard](https://github.com/FormidableLabs/nodejs-dashboard) - Telemetry dashboard for node.js apps from the terminal!
 
@@ -230,13 +230,13 @@ Component library
 
 ---
 
-## ?? Alfred
+## 🎩 Alfred
 
 - [Alfred Jira](https://github.com/steyep/alfred-jira) - Alfred 3 (or Alfred 2) workflow for interacting with JIRA.
 
 ---
 
-## ?? Admired Examples
+## 💖 Admired Examples
 
 SDK Examples
 
@@ -266,7 +266,7 @@ Video Game Examples
 
 ---
 
-## ?? Modules/Packages
+## 📦 Modules/Packages
 
 Custom Logger
 
@@ -461,7 +461,7 @@ Postman Testing
 
 ---
 
-## ?? Twitter
+## 🐦 Twitter
 
 Organizations
 
@@ -501,7 +501,7 @@ Fun
 
 ---
 
-## ?? Other Awesome Lists
+## 📜 Other Awesome Lists
 
 - [Free for Dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev.
 
