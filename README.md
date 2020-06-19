@@ -9,29 +9,29 @@ A list of my favorite findings in the software industry.
 ---
 
 - [Ryan Parker's Awesome List](#ryan-parkers-awesome-list)
-  - [Blogs](#blogs)
-  - [Videos](#videos)
-  - [Books](#books)
-  - [Chrome Dev Tools](#chrome-dev-tools)
-  - [JSON Schema](#json-schema)
-  - [OpenAPI](#openapi)
-  - [VSCode](#vscode)
-  - [Services](#services)
-  - [Terminal](#terminal)
-  - [Alfred](#alfred)
-  - [Admired Examples](#admired-examples)
-  - [Modules/Packages](#modulespackages)
+  - [??Blogs](#blogs)
+  - [?? Videos](#-videos)
+  - [??Books](#books)
+  - [??Chrome Dev Tools](#chrome-dev-tools)
+  - [??JSON Schema](#json-schema)
+  - [??OpenAPI](#openapi)
+  - [?VSCode](#vscode)
+  - [?Services](#services)
+  - [??Terminal](#terminal)
+  - [??Alfred](#alfred)
+  - [??Admired Examples](#admired-examples)
+  - [??Modules/Packages](#modulespackages)
     - [Linters](#linters)
     - [Documentation](#documentation)
     - [Frontend development](#frontend-development)
     - [Integration development](#integration-development)
     - [Testing](#testing)
-  - [Twitter](#twitter)
-  - [Other Awesome Lists](#other-awesome-lists)
+  - [??Twitter](#twitter)
+  - [??Other Awesome Lists](#other-awesome-lists)
 
 ---
 
-## Blogs
+## ??Blogs
 
 Company
 
@@ -50,7 +50,7 @@ Platforms
 
 ---
 
-## Videos
+## ?? Videos
 
 One of a Kind
 
@@ -100,7 +100,7 @@ Conferences
 
 ---
 
-## Books
+## ??Books
 
 Life changing
 
@@ -174,15 +174,19 @@ Computer Science
 
 - [Data Structures and Algorithms in Java](https://www.amazon.com/gp/product/0672324539/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 
+Interviews
+
+- [Cracking the Coding Interview Programming Questions](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
+
 ---
 
-## Chrome Dev Tools
+## ??Chrome Dev Tools
 
 - [Code-Snippets](https://github.com/bahmutov/code-snippets) - Performance, debugging and testing code snippets to be run in Chrome DevTools.
 
 ---
 
-## JSON Schema
+## ??JSON Schema
 
 - [Schema Tools](https://github.com/cypress-io/schema-tools) - TS - Validate, sanitize and document JSON schemas.
 
@@ -192,13 +196,13 @@ Computer Science
 
 - [Justify](https://github.com/leadpony/justify) - Java - Justify is a JSON validator based on JSON Schema Specification and Jakarta JSON Processing API (JSON-P).
 
-## OpenAPI
+## ??OpenAPI
 
 - [List of tools](https://openapi.tools/#sdk)
 
 ---
 
-## VSCode
+## ?VSCode
 
 - [VSCode Recipes](https://github.com/microsoft/vscode-recipes) - A collection of recipes for using VS Code with particular technologies.
 
@@ -206,7 +210,7 @@ Computer Science
 
 ---
 
-## Services
+## ?Services
 
 Component library
 
@@ -214,7 +218,7 @@ Component library
 
 ---
 
-## Terminal
+## ??Terminal
 
 - [NodeJS Dashboard](https://github.com/FormidableLabs/nodejs-dashboard) - Telemetry dashboard for node.js apps from the terminal!
 
@@ -226,13 +230,13 @@ Component library
 
 ---
 
-## Alfred
+## ??Alfred
 
 - [Alfred Jira](https://github.com/steyep/alfred-jira) - Alfred 3 (or Alfred 2) workflow for interacting with JIRA.
 
 ---
 
-## Admired Examples
+## ??Admired Examples
 
 SDK Examples
 
@@ -262,7 +266,7 @@ Video Game Examples
 
 ---
 
-## Modules/Packages
+## ??Modules/Packages
 
 Custom Logger
 
@@ -457,7 +461,7 @@ Postman Testing
 
 ---
 
-## Twitter
+## ??Twitter
 
 Organizations
 
@@ -497,7 +501,7 @@ Fun
 
 ---
 
-## Other Awesome Lists
+## ??Other Awesome Lists
 
 - [Free for Dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev.
 
