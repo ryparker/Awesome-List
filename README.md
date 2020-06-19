@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[Github Pagess](https://ryparker.github.io/Awesome-List/)
+[Github Pages](https://ryparker.github.io/Awesome-List/)
 
 ---
 
