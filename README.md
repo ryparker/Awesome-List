@@ -9,29 +9,29 @@ A list of my favorite findings in the software industry.
 ---
 
 - [Ryan Parker's Awesome List](#ryan-parkers-awesome-list)
-  - [??Blogs](#blogs)
+  - [?? Blogs](#-blogs)
   - [?? Videos](#-videos)
-  - [??Books](#books)
-  - [??Chrome Dev Tools](#chrome-dev-tools)
-  - [??JSON Schema](#json-schema)
-  - [??OpenAPI](#openapi)
+  - [?? Books](#-books)
+  - [?? Chrome Dev Tools](#-chrome-dev-tools)
+  - [?? JSON Schema](#-json-schema)
+  - [?? OpenAPI](#-openapi)
   - [?VSCode](#vscode)
-  - [?Services](#services)
-  - [??Terminal](#terminal)
-  - [??Alfred](#alfred)
-  - [??Admired Examples](#admired-examples)
-  - [??Modules/Packages](#modulespackages)
+  - [? Services](#-services)
+  - [?? Terminal](#-terminal)
+  - [?? Alfred](#-alfred)
+  - [?? Admired Examples](#-admired-examples)
+  - [?? Modules/Packages](#-modulespackages)
     - [Linters](#linters)
     - [Documentation](#documentation)
     - [Frontend development](#frontend-development)
     - [Integration development](#integration-development)
     - [Testing](#testing)
-  - [??Twitter](#twitter)
-  - [??Other Awesome Lists](#other-awesome-lists)
+  - [?? Twitter](#-twitter)
+  - [?? Other Awesome Lists](#-other-awesome-lists)
 
 ---
 
-## ??Blogs
+## ?? Blogs
 
 Company
 
@@ -100,7 +100,7 @@ Conferences
 
 ---
 
-## ??Books
+## ?? Books
 
 Life changing
 
@@ -180,13 +180,13 @@ Interviews
 
 ---
 
-## ??Chrome Dev Tools
+## ?? Chrome Dev Tools
 
 - [Code-Snippets](https://github.com/bahmutov/code-snippets) - Performance, debugging and testing code snippets to be run in Chrome DevTools.
 
 ---
 
-## ??JSON Schema
+## ?? JSON Schema
 
 - [Schema Tools](https://github.com/cypress-io/schema-tools) - TS - Validate, sanitize and document JSON schemas.
 
@@ -196,7 +196,7 @@ Interviews
 
 - [Justify](https://github.com/leadpony/justify) - Java - Justify is a JSON validator based on JSON Schema Specification and Jakarta JSON Processing API (JSON-P).
 
-## ??OpenAPI
+## ?? OpenAPI
 
 - [List of tools](https://openapi.tools/#sdk)
 
@@ -210,7 +210,7 @@ Interviews
 
 ---
 
-## ?Services
+## ? Services
 
 Component library
 
@@ -218,7 +218,7 @@ Component library
 
 ---
 
-## ??Terminal
+## ?? Terminal
 
 - [NodeJS Dashboard](https://github.com/FormidableLabs/nodejs-dashboard) - Telemetry dashboard for node.js apps from the terminal!
 
@@ -230,13 +230,13 @@ Component library
 
 ---
 
-## ??Alfred
+## ?? Alfred
 
 - [Alfred Jira](https://github.com/steyep/alfred-jira) - Alfred 3 (or Alfred 2) workflow for interacting with JIRA.
 
 ---
 
-## ??Admired Examples
+## ?? Admired Examples
 
 SDK Examples
 
@@ -266,7 +266,7 @@ Video Game Examples
 
 ---
 
-## ??Modules/Packages
+## ?? Modules/Packages
 
 Custom Logger
 
@@ -461,7 +461,7 @@ Postman Testing
 
 ---
 
-## ??Twitter
+## ?? Twitter
 
 Organizations
 
@@ -501,7 +501,7 @@ Fun
 
 ---
 
-## ??Other Awesome Lists
+## ?? Other Awesome Lists
 
 - [Free for Dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev.
 
