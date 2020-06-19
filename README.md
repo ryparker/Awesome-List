@@ -3,7 +3,9 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 - [My Awesome list](#my-awesome-list)
+  - [Blogs](#blogs)
   - [Videos](#videos)
+    - [One of a kind](#one-of-a-kind)
     - [News](#news)
     - [Modern Software](#modern-software)
     - [Computer Science](#computer-science)
@@ -28,13 +30,13 @@
   - [Modules/Packages](#modulespackages)
     - [Custom Logger](#custom-logger)
     - [CLI development](#cli-development)
-  - [Integration development](#integration-development)
+    - [Integration development](#integration-development)
     - [Frontend development](#frontend-development)
     - [Data Generation](#data-generation)
     - [Converters](#converters)
     - [Benchmarking](#benchmarking)
     - [Machine Learning](#machine-learning)
-    - [Favorite Test Frameworks](#favorite-test-frameworks)
+    - [Test Frameworks](#test-frameworks)
     - [String Input Testing](#string-input-testing)
     - [Mutation Testing](#mutation-testing)
     - [Monkey Testing](#monkey-testing)
@@ -54,11 +56,34 @@
     - [Mobile Application Driver](#mobile-application-driver)
     - [Code Coverage](#code-coverage)
     - [Test Reporting](#test-reporting)
+  - [Twitter](#twitter)
   - [Other Awesome Lists](#other-awesome-lists)
 
 ---
 
+## Blogs
+
+Company
+
+- [Facebook Code](https://code.facebook.com/) - Blog posts from Facebooks development teams.
+
+Developers
+
+- [Gleb](https://glebbahmutov.com/) - Quality and testing
+- [Clean Coder](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html) - Uncle Ben
+
+Platforms
+
+- [Dev.to](https://dev.to/)
+- [medium.com](https://medium.com/)
+
+---
+
 ## Videos
+
+### One of a kind
+
+- [ITkonekt 2019 | Robert C. Martin (Uncle Bob), Clean Architecture and Design](https://www.youtube.com/watch?v=2dKZ-dWaCiU&list=WL&index=2&t=0s)
 
 ### News
 
@@ -250,7 +275,7 @@ Video Game Examples
 
 - [Progress bar](https://github.com/AndiDittrich/Node.CLI-Progress) - Easy to use progress-bar for command-line/terminal applications.
 
-## Integration development
+### Integration development
 
 Slack integrations
 
@@ -275,6 +300,8 @@ Github integrations
 - [Gatsby](https://github.com/gatsbyjs/gatsby) - Static site generator that helps you to build blazing fast, modern apps and websites with React.
 
 - [Arc](https://github.com/diegohaz/arc) - React starter kit based on Atomic Design.
+
+Components
 
 - [Infinite Scroll](https://github.com/metafizzy/infinite-scroll) - HTML - Automatically add next page.
 
@@ -310,7 +337,7 @@ Dashboard development
 
 - [Cortex](https://github.com/cortexlabs/cortex) - Build machine learning APIs
 
-### Favorite Test Frameworks
+### Test Frameworks
 
 - [Ava](https://github.com/avajs/ava) - JS - Quick and easy JS/TS unit test framework with beautiful CLI output.
 
@@ -411,6 +438,46 @@ Dashboard development
 
 ---
 
+## Twitter
+
+Organizations
+
+- [NSA/CSS](https://twitter.com/NSAGov) - National Security Agency/Central Security Service official account, home to America's codemakers and codebreakers.
+- [Chrome Dev Tools](https://twitter.com/ChromeDevTools) - Official account. Follow for latest news, features, tips, handy extensions and more.
+- [Microsoft Game Stack](https://twitter.com/MSFTGameStack) - The official account for Microsoft Game Stack. Follow for the latest GameDev news and updates from the #GameStack team and community.
+
+Developers
+
+- [Sindre Sorhus](https://twitter.com/sindresorhus) - Full-time open-sourcerer
+- [Addy Osmani](https://twitter.com/addyosmani) - Engineering Manager for Google Chrome.
+- [Jason Lengstorf](https://twitter.com/jlengstorf) - Founder of Gatsby
+- [Brian Clark](https://twitter.com/_clarkio) - Microsoft VSCode developer & developer relations
+- [Uncle Bob Martin](https://twitter.com/unclebobmartin) - Software Craftsman and author of Clean Code.
+- [Bryan Jones](https://twitter.com/bdkjones) - Apple Mac developer.
+- [Matteo Collina](https://twitter.com/matteocollina) - NodeJS TC39 member, PhD, Technical Director, IoT Expert, Consultant, and Conference Speaker.
+- [John-David Dalton](https://twitter.com/jdalton) - NodeJS TC39 member and creator of lodash
+- [Justin James](https://twitter.com/digitaldrummerj) - NodeJS TC39 mmember, Microsoft MVP and author
+- [Jeff Scott Brown](https://twitter.com/jeffscottbrown) - Object Computing Partner, Grails and Micronaut Practice Lead
+- [Jeff Barr](https://twitter.com/jeffbarr) - Chief Evangelist for the Amazon Web Services
+- [Lauren Wagner](https://twitter.com/typewriters) - Researched, designed, and built products for Google, Truveris, Telefonica, Breastcancer.org, Truly Wireless, Guardant Health, Moonshot CVE and others, in the US, Europe, and Latin America.
+- [Christoph Nakazawa](https://twitter.com/cpojer) - Engineering Manager at Facebook · React Native · Metro · Jest
+- [Luna Ruan](https://twitter.com/lunaruan) - React core team developer
+- [Dan Abramov](https://twitter.com/dan_abramov) - Facebook developer
+- [Zack Argyle](https://twitter.com/ZackArgyle) - Facebook Engineering Manager for React Native Core.
+- [Dave Hahn](https://twitter.com/relix42) - Netflix core team developer
+- [Eric Elliott](https://twitter.com/_ericelliott) - JS book author and developer relations
+- [Kent C. Dodds](https://twitter.com/kentcdodds) - Improving the world w/ quality software
+- [Gleb Bahmutov](https://twitter.com/bahmutov) - JavaScript ninja, image processing expert, software quality fanatic. VP of Eng at Cypress MS MVP for OSS
+- [Inti De Ceukelaire](https://twitter.com/securinti) - Hacker
+- [Edward Snowden](https://twitter.com/Snowden)
+
+Fun
+
+- [I Am Devloper](https://twitter.com/iamdevloper)
+- [Programming Wisdom](https://twitter.com/CodeWisdom)
+
+---
+
 ## Other Awesome Lists
 
 - [Free for Dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev.
@@ -429,7 +496,7 @@ Dashboard development
 
 - [Alfred Workflows](https://github.com/derimagia/awesome-alfred-workflows) - A curated list of awesome alfred workflows.
 
-- [VSCode](https://github.com/viatsko/awesome-vscode) - A curated list of delightful Visual Studio Code packages and resources. For more awesomeness, check out awesome.
+- [VSCode](https://github.com/viatsko/awesome-vscode) - A curated list of delightful Visual Studio Code packages and resources.
 
 - [Mac](https://github.com/jaywcjlove/awesome-mac) - Collect premium software in various categories.
 
