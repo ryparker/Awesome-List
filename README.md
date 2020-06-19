@@ -141,15 +141,11 @@ Life changing
 
 - [The 7 Habits of Highly Effective People](https://www.amazon.com/gp/product/1476740054/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 
-Working with Other Developers
+Working as a Developer
 
 - [The Clean Coder](https://www.amazon.com/gp/product/0137081073/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 
 - [Development Guide](https://github.com/18F/development-guide) - A set of guidelines and best practices for an awesome engineering team.
-
-- [Clean Code Typescript](https://github.com/labs42io/clean-code-typescript) - Clean Code concepts adapted for TypeScript.
-
-- [UI Testing Best Practices](https://github.com/NoriSte/ui-testing-best-practices) - The largest UI testing best practices list (last update: May 2020) (work in progress)
 
 Writing Code
 
@@ -160,6 +156,8 @@ Writing Code
 Frontend Design
 
 - [Don't Make Me Think (3rd Edition)](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=sr_1_1?dchild=1&keywords=dont+make+me+think&qid=1592580370&sr=8-1)
+
+- [UI Testing Best Practices](https://github.com/NoriSte/ui-testing-best-practices) - The largest UI testing best practices list (last update: May 2020) (work in progress)
 
 Dashboard design
 
