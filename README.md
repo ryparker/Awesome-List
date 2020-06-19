@@ -77,9 +77,9 @@ Platforms
 
 ## Videos
 
-One of a kind
+One of a Kind
 
-- [ITkonekt 2019 | Robert C. Martin (Uncle Bob), Clean Architecture and Design](https://www.youtube.com/watch?v=2dKZ-dWaCiU&list=WL&index=2&t=0s)
+- [ITkonekt 2019 Robert C. Martin (Uncle Bob), Clean Architecture and Design](https://www.youtube.com/watch?v=2dKZ-dWaCiU&list=WL&index=2&t=0s)
 
 News
 
