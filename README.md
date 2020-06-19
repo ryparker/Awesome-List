@@ -71,7 +71,7 @@ Developers
 Platforms
 
 - [Dev.to](https://dev.to/)
-- [medium.com](https://medium.com/)
+- [Medium.com](https://medium.com/)
 
 ---
 
