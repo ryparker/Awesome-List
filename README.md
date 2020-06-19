@@ -98,6 +98,8 @@ Conferences
 
 - [OKG!](https://www.youtube.com/channel/UCemC4xuL1cZhVlixuoEjtSg) - Developer testing.
 
+- [Midwest JS](https://www.youtube.com/channel/UCg09l6pJcp2DdCcsSrJmQng) - JS Conference in the Midwest.
+
 ---
 
 ## 📚 Books
