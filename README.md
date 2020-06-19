@@ -8,7 +8,7 @@ A list of my favorite findings in the software industry.
 
 ---
 
-- [My Awesome list](#my-awesome-list)
+- [Ryan Parker's Awesome List](#ryan-parkers-awesome-list)
   - [Blogs](#blogs)
   - [Videos](#videos)
     - [One of a kind](#one-of-a-kind)
@@ -16,12 +16,10 @@ A list of my favorite findings in the software industry.
     - [Modern Software](#modern-software)
     - [Computer Science](#computer-science)
     - [Agile Methodology](#agile-methodology)
-    - [industry](#industry)
+    - [Industry](#industry)
     - [History](#history)
     - [Conferences](#conferences)
   - [Books](#books)
-    - [Software Architecture](#software-architecture)
-    - [JavaScript](#javascript)
   - [Chrome Dev Tools](#chrome-dev-tools)
   - [Linters](#linters)
   - [Documentation](#documentation)
@@ -30,7 +28,6 @@ A list of my favorite findings in the software industry.
   - [VSCode](#vscode)
   - [Good Examples](#good-examples)
   - [Services](#services)
-    - [Component library](#component-library)
   - [Terminal](#terminal)
   - [Alfred](#alfred)
   - [Modules/Packages](#modulespackages)
@@ -71,11 +68,12 @@ A list of my favorite findings in the software industry.
 
 Company
 
-- [Facebook Code](https://code.facebook.com/) - Blog posts from Facebooks development teams.
+- [Facebook Code](https://code.facebook.com/) - Blog posts from Facebook's development teams.
 
 Developers
 
 - [Gleb](https://glebbahmutov.com/) - Quality and testing
+- [Kent C Dodds](https://kentcdodds.com/) - Software quality
 - [Clean Coder](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html) - Uncle Ben
 
 Platforms
@@ -115,7 +113,7 @@ Platforms
 
 - [Development that pays](https://www.youtube.com/channel/UCVHTu50vmvVA0OtkGBJlGPw) - Breaks down what Agile is and why.
 
-### industry
+### Industry
 
 - [TechLead](https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw) - Ex-Google / Facebook developer who talks about the pros/cons of todays software giants and the software industry as a whole.
 
@@ -137,13 +135,47 @@ Platforms
 
 ## Books
 
+Life changing
+
+- [How to Win Friends and Influence People](https://www.amazon.com/gp/product/1439167346/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) - One of the best books I've ever read.
+
+- [The 7 Habits of Highly Effective People](https://www.amazon.com/gp/product/1476740054/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+
+Working with Other Developers
+
+- [The Clean Coder](https://www.amazon.com/gp/product/0137081073/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+
 - [Development Guide](https://github.com/18F/development-guide) - A set of guidelines and best practices for an awesome engineering team.
 
 - [Clean Code Typescript](https://github.com/labs42io/clean-code-typescript) - Clean Code concepts adapted for TypeScript.
 
 - [UI Testing Best Practices](https://github.com/NoriSte/ui-testing-best-practices) - The largest UI testing best practices list (last update: May 2020) (work in progress)
 
-### Software Architecture
+Writing Code
+
+- [Clean Code](https://www.amazon.com/gp/product/0132350882/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+
+- [The Pragmatic Programmer](https://www.amazon.com/gp/product/0135957052/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+
+Frontend Design
+
+- [Don't Make Me Think (3rd Edition)](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=sr_1_1?dchild=1&keywords=dont+make+me+think&qid=1592580370&sr=8-1)
+
+Dashboard design
+
+- [The Big Book of Dashboards](https://www.amazon.com/gp/product/1119282713/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+
+Database Design
+
+- [Database Design for Mere Mortals](https://www.amazon.com/gp/product/0321884493/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+
+Software Architecture
+
+- [Head First Design Patterns](https://www.amazon.com/gp/product/0596007124/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) - The best design patterns book i've ever read.
+
+- [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/gp/product/0201633612/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+
+- [Clean Architecture](https://www.amazon.com/gp/product/0134494164/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 
 - [System Design Primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 
@@ -153,13 +185,29 @@ Platforms
 
 - [Cluster Fuzz Design](https://github.com/google/clusterfuzz) - ClusterFuzz is a scalable fuzzing infrastructure that finds security and stability issues in software.
 
-### JavaScript
+JavaScript
 
 - [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS) - An excellent book series on JavaScript.
 
 - [33 JS Concepts](https://github.com/leonardomso/33-js-concepts) - 33 concepts every JavaScript developer should know.
 
 - [Javascript Algorithms](https://github.com/trekhleb/javascript-algorithms) - Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
+
+- [Eloquent JavaScript 3rd Edition](https://www.amazon.com/gp/product/1593279507/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+
+Agile
+
+- [Clean Agile: Back to Basics](https://www.amazon.com/gp/product/0135781868/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+
+- [Agile Software Development, Principles, Patterns, and Practices](https://www.amazon.com/gp/product/0135974445/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+
+Computer Science
+
+- [Structure and Interpretation of Computer Programs - 2nd Edition](https://www.amazon.com/gp/product/0262510871/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+
+- [Introduction to Algorithms: 3rd Edition](https://www.amazon.com/gp/product/0262033844/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+
+- [Data Structures and Algorithms in Java](https://www.amazon.com/gp/product/0672324539/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 
 ---
 
@@ -247,7 +295,7 @@ Video Game Examples
 
 ## Services
 
-### Component library
+Component library
 
 - [Bit](https://bit.dev/) - Bit is a scalable and collaborative way to build and reuse components. It's everything you need from local development to cross-project integrations.
 
@@ -260,6 +308,8 @@ Video Game Examples
 - [Vtop](https://github.com/MrRio/vtop) - JS - Wow such top. So stats. More better than regular top.
 
 - [PM2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
+
+- [TMUX](https://github.com/tmux/tmux/wiki) - a terminal multiplexer. It lets you switch easily between several programs in one terminal, detach them (they keep running in the background) and reattach them to a different terminal.
 
 ---
 
