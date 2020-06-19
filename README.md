@@ -2,7 +2,9 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[Github Pages](https://ryparker.github.io/Awesome-List/)
+A list of my favorite findings in the software industry.
+
+[View this in Github Pages](https://ryparker.github.io/Awesome-List/)
 
 ---
 
