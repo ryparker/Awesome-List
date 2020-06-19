@@ -468,9 +468,11 @@ Organizations
 - [NSA/CSS](https://twitter.com/NSAGov) - National Security Agency/Central Security Service official account, home to America's codemakers and codebreakers.
 - [Chrome Dev Tools](https://twitter.com/ChromeDevTools) - Official account. Follow for latest news, features, tips, handy extensions and more.
 - [Microsoft Game Stack](https://twitter.com/MSFTGameStack) - The official account for Microsoft Game Stack. Follow for the latest GameDev news and updates from the #GameStack team and community.
+- [Microsoft](https://twitter.com/Microsoft) - Microsoft actually has a pretty decent twitter team.
 
 Developers
 
+- [Getify](https://twitter.com/getify) - Kyle Simpson - Teacher, Author of YDKJS, JS Theologian, Symmathecist in the medium of software.
 - [Sindre Sorhus](https://twitter.com/sindresorhus) - Full-time open-sourcerer
 - [Addy Osmani](https://twitter.com/addyosmani) - Engineering Manager for Google Chrome.
 - [Jason Lengstorf](https://twitter.com/jlengstorf) - Founder of Gatsby
