@@ -14,10 +14,12 @@ Items marked with `🌟` are highly recommended.
   - [📍 Local to Iowa](#-local-to-iowa)
   - [📰 Blogs](#-blogs)
   - [🕷️ Bug Bounties](#️-bug-bounties)
+  - [Feature Bounties](#feature-bounties)
   - [📺 Videos](#-videos)
   - [📚 Books](#-books)
   - [💖 Admired Examples](#-admired-examples)
   - [✨ Services](#-services)
+  - [Github](#github)
   - [✍️ VSCode](#️-vscode)
   - [💻 Applications](#-applications)
   - [📟 Terminal](#-terminal)
@@ -70,7 +72,9 @@ Platforms
 - 🌟 [Dev.to](https://dev.to/)
 - 🌟 [Medium.com](https://medium.com/)
 - [Code Academy](https://www.freecodecamp.org/news/)
+- [Ministry of Testing](https://www.ministryoftesting.com/) - All things testing, connect with others interested in software quality, and contribute to the advancement of the software testing craft.
 - [TechChrunch](https://techcrunch.com/?guccounter=1) - Tech and Startup news.
+- [HackerNoon](https://hackernoon.com/) -
 - [The Daily Swig](https://portswigger.net/daily-swig) - Cybersecurity news and views
 - [Designmodo](https://designmodo.com/) - Frontend design blog
 
@@ -80,6 +84,10 @@ Platforms
 
 - [HackerOne](https://www.hackerone.com/) - The most trusted hacker powered security platform.
 - [BugCrowd](https://www.bugcrowd.com/products/bug-bounty/) - Fully-managed Bug Bounty programs combine analytics, automated security workflows, and human expertise to find and fix more critical vulnerabilities.
+
+## Feature Bounties
+
+- [Issue Hunt](https://issuehunt.io/)
 
 ---
 
@@ -273,6 +281,17 @@ Slack
 
 ---
 
+## Github
+
+- 🌟 [Refined Github](https://github.com/sindresorhus/refined-github) - Browser extension that simplifies the GitHub interface and adds useful features.
+- [Writting on Github](https://help.github.com/en/github/writing-on-github) - Official GitHub docs for READMEs, Gists, and more.
+- [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet) - List of emojis that are supported in Github's README presenter.
+- [Github Labels](https://github.com/abdonrd/github-labels) - A list of GitHub labels for reuse across projects.
+
+People to follow
+
+- 🌟 [Sindre Sorhus](https://github.com/sindresorhus) - Full-Time Open-Sourcerer ·· Maker ·· Into Swift and Node.js This guy creates some incredible open source, you've got to check out his work. After all, he's the guy who started Awesome lists! Some others you may have heard of: XO, Ava, Gifsky, refined github, is-\*, p-\* and many others. He actively maintain 1100+ npm packages (2 billion downloads a month!) Webpack relies on 101 of his packages and Babel relies on 144 of his packages!
+
 ## ✍️ VSCode
 
 - 🌟 [WallabyJS](https://wallabyjs.com/) - Wallaby.js is a developer productivity tool that runs your JavaScript and TypeScript tests immediately as you type, highlighting results in your IDE right next to your code.
@@ -289,15 +308,19 @@ MacOS only
 
 ## 💻 Applications
 
+- 🌟 [Dashlane](https://www.dashlane.com/cs/Zhh7eiZKlCzm) - Everybody should have a password manager by now. Dashlane is a cross-platform subscription-based password manager and digital wallet application available on macOS, Windows, iOS and Android. It uses a Freemium pricing model which includes both a free tier and a premium subscription.
+- 🌟 [Tower](https://www.git-tower.com/windows) - The best Git client i've ever used. Over 100000 developers and designers are more productive with Tower - the most powerful Git client for Mac and Windows.
+- 🌟 [Krisp](https://krisp.ai/) - An AI powered application that removes background noise from both your microphone and your input audio. 120 minutes/week are free.
 - [Recordit](https://recordit.co/) - Fast Screencasts
 - [Burp Suite](https://portswigger.net/burp) - A leading range of cybersecurity tools, brought to you by PortSwigger.
 
 MacOS only
 
-- [Alfred](https://www.alfredapp.com/) - Replaces spotlight with more customization and an active plugin community.
-- [Muzzle](https://muzzleapp.com/) - A simple mac app to silence embarrassing notifications while screensharing.
+- [Alfred](https://www.alfredapp.com/) - Replaces the MacOS spotlight with more customization and an active plugin community.
+- [Muzzle](https://muzzleapp.com/) - A simple mac app that automatically silences embarrassing notifications when screen-sharing.
 - [Contexts](https://contexts.co/) - Switch between application windows effortlessly — with Fast Search, a better Command-Tab, a Sidebar or even a quick gesture. Includes fantastic features for multiple spaces & multiple displays.
 - [PixelSnap 2](https://getpixelsnap.com/) - The fastest tool for measuring anything on your screen.
+- [Sketch](https://www.sketchapp.com/) - Create, prototype, collaborate, and bring your ideas to life with the design platform used by over one million people — from freelancers, to the world’s largest teams.
 
 ---
 
@@ -358,12 +381,17 @@ Package Libraries
 
 ## 📦 Modules/Packages
 
+Package management
+
+- [Patch Package](https://github.com/ds300/patch-package) - Lets app authors instantly make and keep fixes to npm dependencies. It's a vital band-aid for those of us living on the bleeding edge.
+
 Custom Logger
 
 - [Winston](https://github.com/winstonjs/winston) - JS - A logger for just about everything.
 
 CLI development
 
+- [Ink](https://github.com/vadimdemedes/ink) - Provides the same component-based UI building experience that React offers in the browser, but for command-line apps.
 - [Chalk](https://github.com/chalk/chalk) - Customize console output's font style and color.
 - [Progress bar](https://github.com/AndiDittrich/Node.CLI-Progress) - Easy to use progress-bar for command-line/terminal applications.
 
@@ -451,6 +479,7 @@ Test Reporting
 Components
 
 - [Recharts](https://recharts.org/en-US/) - A composable charting library built on React components.
+- [Google Charts](https://developers.google.com/chart) - Google chart tools are powerful, simple to use, and free. Try out Google's rich gallery of interactive charts and data tools.
 - [Infinite Scroll](https://github.com/metafizzy/infinite-scroll) - HTML - Automatically add next page.
 - [React D3 Speedometer](https://github.com/palerdot/react-d3-speedometer) - JS - React Speedometer component using d3.js
 - [MUI Data Tables](https://github.com/gregnb/mui-datatables) - JS - Data tables for React using Material-UI.
