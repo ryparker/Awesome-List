@@ -19,7 +19,7 @@ Items marked with `🌟` are highly recommended.
   - [📚 Books](#-books)
   - [💖 Admired Examples](#-admired-examples)
   - [✨ Services](#-services)
-  - [Github](#github)
+  - [:octocat: Github](#octocat-github)
   - [✍️ VSCode](#️-vscode)
   - [💻 Applications](#-applications)
   - [📟 Terminal](#-terminal)
@@ -290,7 +290,7 @@ CDN of JS packages
 
 ---
 
-## Github
+## :octocat: Github
 
 - 🌟 [Refined Github](https://github.com/sindresorhus/refined-github) - Browser extension that simplifies the GitHub interface and adds useful features.
 - [Writting on Github](https://help.github.com/en/github/writing-on-github) - Official GitHub docs for READMEs, Gists, and more.
