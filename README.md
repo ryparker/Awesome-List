@@ -62,6 +62,8 @@ Developers
 - [Kent C. Dodds](https://kentcdodds.com/) - Software quality
 - [Clean Coder](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html) - Uncle Ben
 
+- 🌟 [Josh Comeau](https://www.joshwcomeau.com/) - One of the best blog designs i've seen. Josh incorporates sound, hit counters, and other fancy tricks in his blog design. His actual content is solid and I highly recommend it to everyone.
+
 Resources
 
 - [Bobby Tables](https://bobby-tables.com/) - A guide to preventing SQL injection.
@@ -84,6 +86,7 @@ Platforms
 
 - [HackerOne](https://www.hackerone.com/) - The most trusted hacker powered security platform.
 - [BugCrowd](https://www.bugcrowd.com/products/bug-bounty/) - Fully-managed Bug Bounty programs combine analytics, automated security workflows, and human expertise to find and fix more critical vulnerabilities.
+- [Facebook Whitehat](https://www.facebook.com/whitehat/) - Facebook's official bounty program.
 
 ## Feature Bounties
 
@@ -93,7 +96,7 @@ Platforms
 
 ## 📺 Videos
 
-One of a Kind
+Architecture
 
 - 🌟 [ITkonekt 2019 Clean Architecture and Design](https://www.youtube.com/watch?v=2dKZ-dWaCiU&list=WL&index=2&t=0s) - Robert C. Martin
 
@@ -104,7 +107,7 @@ News
 
 Modern Software
 
-- [Frontend Masters](https://frontendmasters.com/) - Probably the best frontend development courses.
+- 🌟 [Frontend Masters](https://frontendmasters.com/) - Probably the best frontend development courses.
 - [Egghead](https://egghead.io/) - Modern technology courses taught by well known industry professionals.
 - [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA) - JS, TS, Node topics explained in 100 seconds.
 - [Learn with Jason](https://www.youtube.com/watch?v=yhfGEpGalSg&list=PLz8Iz-Fnk_eTpvd49Sa77NiF8Uqq5Iykx) - Jason live codes with developers from emerging tech companies/startups to showcase how you can use the latest trend in your next project.
@@ -221,10 +224,13 @@ GraphQL Examples
 
 - [Relay Examples Subscription](https://github.com/jeremy-colin/relay-examples-subscription) - JS - Example of subscriptions with Relay Modern.
 
+Web Design Examples
+
+- :star: [Josh Comeau's blog](https://www.joshwcomeau.com/) - One of the best blog designs i've seen. Josh incorporates sound, hit counters, and other fancy tricks in his blog design. His actual content are solid and some go into detail on how he added some of his blogs coolest features. I highly recommend it to everyone.
+
 Test Framework Examples
 
 - [Google Test](https://github.com/google/googletest) - C++ - Google Testing and Mocking Framework
-
 - [Jira Performance Tests](https://github.com/atlassian/jira-performance-tests) - Kotlin - A fully-automated performance benchmarking tool designed for Jira Server and Jira Data Center.
 - [PyTest Allure API Framework](https://github.com/wangxiaoxi3/API_Automation) - Python
 
@@ -260,7 +266,6 @@ Machine Learning
 Testing
 
 - [Page Speed Insights](https://developers.google.com/speed/pagespeed/insights/) - PageSpeed Insights analyzes the content of a web page, then generates suggestions to make that page faster.
-
 - [EggPlant](https://www.eggplantsoftware.com/) - Applying Artificial Intelligence and Machine Learning to move from predominantly manual Quality Assurance to automated QA helps support a new culture of working, to help you deliver DevOps at scale and optimize your User' Experiences (UX).
 
 Environment Setup Automation
@@ -279,6 +284,10 @@ Slack
 
 - [Slackmojis](https://slackmojis.com/) - An unofficial\* directory of the best custom slack emojis.
 
+CDN of JS packages
+
+- [CDNJS](https://cdnjs.com/) - Stable, reliable, high-speed, globally available content distribution network for the most popular, open-source JavaScript libraries.
+
 ---
 
 ## Github
@@ -291,6 +300,7 @@ Slack
 People to follow
 
 - 🌟 [Sindre Sorhus](https://github.com/sindresorhus) - Full-Time Open-Sourcerer ·· Maker ·· Into Swift and Node.js This guy creates some incredible open source, you've got to check out his work. After all, he's the guy who started Awesome lists! Some others you may have heard of: XO, Ava, Gifsky, refined github, is-\*, p-\* and many others. He actively maintain 1100+ npm packages (2 billion downloads a month!) Webpack relies on 101 of his packages and Babel relies on 144 of his packages!
+- [Chris Lilley](https://github.com/svgeesus) - Creator of SVG.
 
 ## ✍️ VSCode
 
@@ -366,13 +376,16 @@ Package Libraries
 ## 🔏 OpenAPI
 
 - [Official Site](https://www.openapis.org/)
+
 - [Spec](http://spec.openapis.org/oas/v3.0.3)
+
 - [List of tools](https://openapi.tools/#sdk)
 
 ---
 
 ## 🎨 Design Libraries
 
+- [Styled Components](https://styled-components.com/) - The best design library is your own. Having full flexibility to modify any presentation to your will is a difference maker.
 - [Material UI](https://material-ui.com/) - React components for faster and easier web development. Build your own design system, or start with Material Design.
 - [Ant Design](https://ant.design/) - A design system for enterprise-level products. Create an efficient and enjoyable work experience.
 - [Semantic UI](https://semantic-ui.com/) - Semantic is a development framework that helps create beautiful, responsive layouts using human-friendly HTML.
@@ -463,7 +476,7 @@ Test Reporting
 
 ### Documentation
 
-- [TSDoc](https://github.com/microsoft/tsdoc) - A doc comment standard for the TypeScript language.
+- [TSDoc](https://github.com/microsoft/tsdoc) - A clean code documenting/commenting standard for TypeScript.
 - [Mermaid](https://github.com/mermaid-js/mermaid) - JS - Generation of diagram and flowchart from text in a similar manner as markdown.
 - [Docz](https://www.docz.site/) - Create MDX files showcasing your code and Docz turns them into a live-reloading, production-ready site.
 - 🌟 [Slate](https://github.com/slatedocs/slate) - Beautiful static (markdown) documentation for your API.
@@ -472,7 +485,8 @@ Test Reporting
 
 ### Frontend development
 
-- 🌟 [Gatsby](https://github.com/gatsbyjs/gatsby) - Static site generator that helps you to build blazing fast, modern apps and websites with React.
+- 🌟 [Gatsby](https://github.com/gatsbyjs/gatsby) - Static site generator that helps you to build blazing fast, modern apps and websites with React. My favorite thing about Gatsby is how they let you hook into every step of the build process. **IMO Gatsby is the king of static site rendering.**
+- [NextJS](https://nextjs.org/) - NextJS can be a static site generator like Gatsby, however it lacks in image rendering features. Where NextJS comes up short, it makes up for with other **fantastic features like SSR, SSG, REST API server** and more.
 - [Browser Rendering Optimization](https://github.com/vasanthk/browser-rendering-optimization) - Browser rendering optimization for 60fps smoothness!
 - [Arc](https://github.com/diegohaz/arc) - React starter kit based on Atomic Design.
 
@@ -617,6 +631,7 @@ Developers
 - 🌟 [Gleb Bahmutov](https://twitter.com/bahmutov) - JavaScript ninja, image processing expert, software quality fanatic. VP of Eng at Cypress MS MVP for OSS
 - [Inti De Ceukelaire](https://twitter.com/securinti) - Hacker
 - [Edward Snowden](https://twitter.com/Snowden)
+- [Chris Lilley](https://twitter.com/svgeesus?lang=en) - Creator of SVG. Staff member at World Wide Web Consortium (W3C)
 
 Fun
 
