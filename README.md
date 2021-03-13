@@ -30,21 +30,22 @@ Items marked with `🌟` are highly recommended.
   - [🔧 Chrome Dev Tools](#-chrome-dev-tools)
   - [🔏 JSON Schema](#-json-schema)
   - [🔏 OpenAPI](#-openapi)
-  - [:bulb: Design Inspiration](#bulb-design-inspiration)
-  - [:abacus: Data Visualizations](#abacus-data-visualizations)
-  - [:art: Color Pallet Design](#art-color-pallet-design)
-  - [:sponge: Textures](#sponge-textures)
-  - [:black_square_button: Shadow Design](#black_square_button-shadow-design)
-  - [:scissors: CSS and SVG Masking/Clipping](#scissors-css-and-svg-maskingclipping)
-  - [:tada: Animation](#tada-animation)
-  - [:thumbsup: Icon Design](#thumbsup-icon-design)
-  - [:ticket: Social Cards](#ticket-social-cards)
-  - [:framed_picture: Image Optimization](#framed_picture-image-optimization)
-  - [:jigsaw: Design Libraries](#jigsaw-design-libraries)
-  - [:money_with_wings: UI Kits](#money_with_wings-ui-kits)
-  - [:curly_loop: Typography](#curly_loop-typography)
+  - [:eyes: Design](#eyes-design)
+    - [:bulb: Design Inspiration](#bulb-design-inspiration)
+    - [:abacus: Data Visualizations](#abacus-data-visualizations)
+    - [:art: Color Pallet Design](#art-color-pallet-design)
+    - [:sponge: Textures](#sponge-textures)
+    - [:black_square_button: Shadow Design](#black_square_button-shadow-design)
+    - [:scissors: CSS and SVG Masking/Clipping](#scissors-css-and-svg-maskingclipping)
+    - [:tada: Animation](#tada-animation)
+    - [:thumbsup: Icon Design](#thumbsup-icon-design)
+    - [:ticket: Social Cards](#ticket-social-cards)
+    - [:framed_picture: Image Optimization](#framed_picture-image-optimization)
+    - [:jigsaw: Design Libraries](#jigsaw-design-libraries)
+    - [:money_with_wings: UI Kits](#money_with_wings-ui-kits)
+    - [:curly_loop: Typography](#curly_loop-typography)
   - [:card_index_dividers: SEO](#card_index_dividers-seo)
-    - [:chart_with_upwards_trend: Analytics](#chart_with_upwards_trend-analytics)
+  - [:chart_with_upwards_trend: Analytics](#chart_with_upwards_trend-analytics)
   - [📦 Modules/Packages](#-modulespackages)
     - [Linters](#linters)
     - [Documentation](#documentation)
@@ -408,19 +409,21 @@ Package Libraries
 
 ---
 
-## :bulb: Design Inspiration
+## :eyes: Design
+
+### :bulb: Design Inspiration
 
 - [Codrops](https://tympanus.net/codrops/) - A web design and development blog that publishes articles and tutorials about the latest web trends, techniques and new possibilities. The team of Codrops is dedicated to provide useful, inspiring and innovative content that is free of charge.
 - 🌟 [Dribble](https://dribbble.com/) - Dribbble is the leading destination to find & showcase creative work and home to the world's best design professionals.
 - 🌟 [Grid By Example](https://gridbyexample.com/examples/) - Everything you need to learn CSS Grid Layout. Includes several examples of how you can use CSS grid to give your site a unique layout.
 - 🌟 [CodePen Topics](https://codepen.io/topics/) - Templates, examples and resources for common libraries, frameworks and UI patterns.
 
-## :abacus: Data Visualizations
+### :abacus: Data Visualizations
 
 - [ObservableHQ](https://observablehq.com/) - Explore data visualization demos/code. Typically showcases examples that use D3.
 - [Data-Driven Documents](https://d3js.org/) - A JavaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG, and CSS. D3’s emphasis on web standards gives you the full capabilities of modern browsers without tying yourself to a proprietary framework, combining powerful visualization components and a data-driven approach to DOM manipulation.
 
-## :art: Color Pallet Design
+### :art: Color Pallet Design
 
 - 🌟 [Coolors](https://coolors.co) - Auto generated color pallets. Just hit the space bar!
 - 🌟 [Colorable](https://colorable.jxnblk.com/) - Make sure your background colors contrast from your text color by using Colorable to rate your colors.
@@ -431,43 +434,43 @@ Package Libraries
 - [Paletton](https://paletton.com/) - You don’t need to know the ins and outs of color theory in order to use Paletton's unique and easy color wheel. All you need to do is choose the basic color you are interested in exploring, and get inspired.
 - [Adobe Color Wheel](https://color.adobe.com/create/color-wheel) - Another easy to use color wheel.
 
-## :sponge: Textures
+### :sponge: Textures
 
 - [Transparent Textures](https://www.transparenttextures.com/) - Free transparent textures that can give your backgrounds style.
 - [Toptal](https://www.toptal.com/designers/subtlepatterns/) - Subtle patterns that can give your backgrounds style.
 
-## :black_square_button: Shadow Design
+### :black_square_button: Shadow Design
 
 - [CSSBoxShadow](https://cssboxshadow.com/) - Easily generate box shadow CSS. Also includes tools for gradients, borders, and noise textures.
 
-## :scissors: CSS and SVG Masking/Clipping
+### :scissors: CSS and SVG Masking/Clipping
 
 - 🌟 [Live demo of masking/clipping techniques](https://codepen.io/yoksel/pen/fsdbu)
 - [Clippy](https://bennettfeely.com/clippy/) - CSS clip-path maker.
 
-## :tada: Animation
+### :tada: Animation
 
 - 🌟 [Framer Motion](https://www.framer.com/motion/) - A production-ready motion library for React. Utilize the power behind Framer, the best prototyping tool for teams. Proudly open source. Used by Netflix and other state of the art sites.
 
-## :thumbsup: Icon Design
+### :thumbsup: Icon Design
 
 - 🌟 [TheNounProject](https://thenounproject.com/) - Download public SVG/PNG icons. If you have a membership you don't even have to cite the creator!
 - [FlatIcon](https://www.flaticon.com/) - The largest database of free icons available in PNG, SVG, EPS, PSD and BASE 64 formats.
 - [Make App Icon](https://makeappicon.com/) - This icon resizer optimizes your icon designs into all formats needed for iOS and Android mobile app!
 
-## :ticket: Social Cards
+### :ticket: Social Cards
 
 When someone posts a link to your site on a social media network a social card is unfurled underneath which can help encourage viewers to visit your site.
 
 - [Twitter Card Validator](https://cards-dev.twitter.com/validator) - Test how your website card will look when unfurled on Twitter.
 - [LinkedIn Post inspector](https://www.linkedin.com/post-inspector/) - Test how your website card will look when unfurled on LinkedIn.
 
-## :framed_picture: Image Optimization
+### :framed_picture: Image Optimization
 
 - [99Designs - Image file types](https://99designs.com/blog/tips/image-file-types/) - To the point explanation of when to use which image file format.
 - [TinyJPG](https://tinyjpg.com/) - TinyJPG reduces the file size of your JPEG images. Every uploaded image is analyzed to apply the best possible JPEG encoding. Based on the content of your image an optimal strategy is chosen. The result is a quality image without wasting storage or bandwidth!
 
-## :jigsaw: Design Libraries
+### :jigsaw: Design Libraries
 
 - [Styled Components](https://styled-components.com/) - The best design library is your own. Having full flexibility to modify any presentation to your will is a difference maker.
 - [Material UI](https://material-ui.com/) - React components for faster and easier web development. Build your own design system, or start with Material Design.
@@ -475,14 +478,14 @@ When someone posts a link to your site on a social media network a social card i
 - [Semantic UI](https://semantic-ui.com/) - Semantic is a development framework that helps create beautiful, responsive layouts using human-friendly HTML.
 - [Chakra](https://chakra-ui.com/) - A simple, modular and accessible component library that gives you the building blocks you need to build your React applications.
 
-## :money_with_wings: UI Kits
+### :money_with_wings: UI Kits
 
 - [ShutterStock](https://www.shutterstock.com/search/ui+kit) - Not interested in designing your own components but still want a unique look and feel? Purchase a library of components!
 - [Creative Market](https://creativemarket.com/themes) - These modern, feminine, and professional themes can power e-commerce sites, portfolios, and blogging platforms.
 
 ---
 
-## :curly_loop: Typography
+### :curly_loop: Typography
 
 - 🌟 [Typography for Laywers](https://typographyforlawyers.com/) - An excellent resource by [Matthew Butterick](https://typographyforlawyers.com/about-matthew-butterick.html) that goes in depth on typography rules and recommended practices. Also the author/site owner offers some beautiful fonts for sale. I've purchased a few that are currently being used on [USACounts.com](https://usacounts.com)
 - [V-Fonts](https://v-fonts.com/) - A simple resource for finding and trying variable fonts.
@@ -495,7 +498,7 @@ When someone posts a link to your site on a social media network a social card i
 
 ---
 
-### :chart_with_upwards_trend: Analytics
+## :chart_with_upwards_trend: Analytics
 
 - [Google Analytic Console](https://analytics.google.com/) - Setup/Monitor page clicks, view time, user demographics, etc.
 
