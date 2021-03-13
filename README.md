@@ -13,13 +13,13 @@ Items marked with `🌟` are highly recommended.
 - [Ryan Parker's Awesome List](#ryan-parkers-awesome-list)
   - [📍 Local to Iowa](#-local-to-iowa)
   - [📰 Blogs](#-blogs)
-  - [Career](#career)
+  - [:briefcase: Career](#briefcase-career)
   - [🕷️ Bug Bounties](#️-bug-bounties)
-  - [Feature Bounties](#feature-bounties)
+  - [:new: Feature Bounties](#new-feature-bounties)
   - [📺 Videos](#-videos)
   - [📚 Books](#-books)
   - [💖 Admired Examples](#-admired-examples)
-  - [:old_key: Developer Portals](#old_key-developer-portals)
+  - [:key: Developer Portals](#key-developer-portals)
   - [:artificial_satellite: Services](#artificial_satellite-services)
   - [:octocat: Github](#octocat-github)
   - [✍️ VSCode](#️-vscode)
@@ -100,7 +100,7 @@ Platforms
 
 ---
 
-## Career
+## :briefcase: Career
 
 - [PayScale](https://www.payscale.com/) - Gain the insights and confidence to get pay right with relevant, validated salary data and industry-leading, AI-powered compensation software.
 
@@ -112,7 +112,7 @@ Platforms
 - [BugCrowd](https://www.bugcrowd.com/products/bug-bounty/) - Fully-managed Bug Bounty programs combine analytics, automated security workflows, and human expertise to find and fix more critical vulnerabilities.
 - [Facebook Whitehat](https://www.facebook.com/whitehat/) - Facebook's official bounty program.
 
-## Feature Bounties
+## :new: Feature Bounties
 
 - [Issue Hunt](https://issuehunt.io/)
 
@@ -266,7 +266,7 @@ Video Game Examples
 
 ---
 
-## :old_key: Developer Portals
+## :key: Developer Portals
 
 - [Twitter Developer](https://developer.twitter.com/en) - Publish and analyze Tweets, optimize ads, and create unique customer experiences.
 
