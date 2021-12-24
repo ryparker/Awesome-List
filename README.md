@@ -11,7 +11,7 @@ Items marked with `🌟` are highly recommended.
 ---
 
 - [Ryan Parker's Awesome List](#ryan-parkers-awesome-list)
-  - [📍 Local to Iowa](#-local-to-iowa)
+  - [:computer: Courses](#computer-courses)
   - [📰 Blogs](#-blogs)
   - [:briefcase: Career](#briefcase-career)
   - [🕷️ Bug Bounties](#️-bug-bounties)
@@ -57,9 +57,14 @@ Items marked with `🌟` are highly recommended.
 
 ---
 
-## 📍 Local to Iowa
+## :computer: Courses
 
-- [JSDM](https://dsmjs.com/) - Developer talks in Des Moines, Iowa.
+Frontend
+
+- 🌟 [CSS for JS developers](https://css-for-js.dev/) - Josh C. Comeau teaches you modern CSS and how to create accessible, animated, thoughtful front ends. By far the best online course design i've ever experienced. It took me 6 months of casual progress to complete, but it can be completed in around 30 hours (10 modules * 3 hours). I loved it so much that I might even consider going through it again to absorb things I may have missed/forgotten.
+- 🌟 [Design for Developers](https://frontendmasters.com/courses/design-for-developers/) - Sarah Drasner teaches you the foundations of design, color theory, patterns, typography, and more. This was a great introduction to design and I loved it.
+- [Testing Javascript](https://testingjavascript.com/) - Kent C. Dodds teaches you how to write clean, efficient, elegant tests for your JavaScript applications. I haven't completed this course but i'm excited to start.
+- [Epic React](https://epicreact.dev/) - Kent C. Dodds teaches you how to use React to build top tier web apps. I haven't completed this course but i'm excited to start.
 
 ---
 
@@ -77,31 +82,33 @@ Developers
 
 - [Gleb](https://glebbahmutov.com/blog/) - Quality and testing
 - 🌟 [Kent C. Dodds](https://kentcdodds.com/) - Software quality
-- [Clean Coder](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html) - Uncle Ben
-- 🌟 [Josh Comeau](https://www.joshwcomeau.com/) - One of the best blog designs i've seen. Josh incorporates sound, hit counters, and other fancy tricks in his blog design. His actual content is solid and I highly recommend it to everyone.
+- 🌟 [Josh C. Comeau](https://www.joshwcomeau.com/) - One of the best blog designs i've seen. Josh incorporates sound, hit counters, and other fancy tricks in his blog design. His actual content is solid and I highly recommend it to everyone.
+- [Robert C. Martin (Uncle Bob)](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html) - Software quality, architecture and design.
 - [Zach Leatherman](https://www.zachleat.com/) - Zach is a builder for the web with Netlify. He’s currently fixated on web fonts and static site generators.
 
 Resources
 
-- [Bobby Tables](https://bobby-tables.com/) - A guide to preventing SQL injection.
 - 🌟 [Illustrated.dev](https://illustrated.dev/) - Illustrated explanations of web development, technology & a little bit of anthropology.
 - 🌟 [CSS-Tricks](https://css-tricks.com/) - Blog posts from CSS experts. Every web developer should bookmark this site for CSS reference. Don't care about the blog posts? Here's the [almanac](https://css-tricks.com/almanac/).
+- [Bobby Tables](https://bobby-tables.com/) - A guide to preventing SQL injection.
 
-Platforms
+Community platforms
 
-- 🌟 [Dev.to](https://dev.to/)
-- 🌟 [Medium.com](https://medium.com/)
-- [Code Academy](https://www.freecodecamp.org/news/)
-- [Ministry of Testing](https://www.ministryoftesting.com/) - All things testing, connect with others interested in software quality, and contribute to the advancement of the software testing craft.
+- 🌟 [Dev.to](https://dev.to/) - A place for developers to share their knowledge and ideas.
+- 🌟 [Medium.com](https://medium.com/) - Medium is a platform for sharing ideas, knowledge, and resources.
+- [Kaggle](https://www.kaggle.com/) - Machine learning challenges.
+- [LeetCode](https://leetcode.com/) - Code challenges.
 - [TechChrunch](https://techcrunch.com/?guccounter=1) - Tech and Startup news.
-- [HackerNoon](https://hackernoon.com/) -
 - [The Daily Swig](https://portswigger.net/daily-swig) - Cybersecurity news and views
 - [Designmodo](https://designmodo.com/) - Frontend design blog
+- [HackerNoon](https://hackernoon.com/) - News and articles from the hacker community.
+- [Code Academy](https://www.freecodecamp.org/news/) - Learn web development.
 
 ---
 
 ## :briefcase: Career
 
+- [Levels.fyi](https://levels.fyi/) - Compare big tech salaries across companies and positions. They also offer paid negotiation coaching with ex-recruiters that will help you get the best possible offer. I purchased 3 sessions and they helped me improve my offer by about 30%. I highly recommend paying for this if you're interviewing at a big tech company.
 - [PayScale](https://www.payscale.com/) - Gain the insights and confidence to get pay right with relevant, validated salary data and industry-leading, AI-powered compensation software.
 
 ---
@@ -136,7 +143,6 @@ Modern Software
 - [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA) - JS, TS, Node topics explained in 100 seconds.
 - [Learn with Jason](https://www.youtube.com/watch?v=yhfGEpGalSg&list=PLz8Iz-Fnk_eTpvd49Sa77NiF8Uqq5Iykx) - Jason live codes with developers from emerging tech companies/startups to showcase how you can use the latest trend in your next project.
 - [Linkedin Learning](https://www.linkedin.com/learning/me) - Technical courses.
-- [Testing Javascript](https://testingjavascript.com/) - Kent C. Dodds - I haven't purchased a course yet but I've heard good things. Fair warning, it's pretty expensive.
 
 Hacking
 
@@ -148,7 +154,7 @@ Computer Science
 
 Agile Methodology
 
-- [Development that pays](https://www.youtube.com/channel/UCVHTu50vmvVA0OtkGBJlGPw) - Breaks down what Agile is and why.
+- [Development that pays](https://www.youtube.com/channel/UCVHTu50vmvVA0OtkGBJlGPw) - Breaks down what Agile is and why it exists.
 
 Industry
 
@@ -188,6 +194,7 @@ Writing Code
 Frontend Design
 
 - 🌟 [Don't Make Me Think (3rd Edition)](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=sr_1_1?dchild=1&keywords=dont+make+me+think&qid=1592580370&sr=8-1)
+- 🌟 [The Design of Everyday Things: Revised and Expanded Edition](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654/ref=sr_1_1?crid=1646NDWGNM2FB&keywords=design+of+everyday+things&qid=1640292909&s=books&sprefix=design+of+%2Cstripbooks%2C148&sr=1-1) - A book that will help you understand what good design is like and how it differs from bad design.
 - [UI Testing Best Practices](https://github.com/NoriSte/ui-testing-best-practices) - The largest UI testing best practices list (last update: May 2020) (work in progress)
 
 Dashboard design
@@ -213,7 +220,6 @@ JavaScript
 - 🌟 [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS) - An excellent book series on JavaScript.
 - [33 JS Concepts](https://github.com/leonardomso/33-js-concepts) - 33 concepts every JavaScript developer should know.
 - [Javascript Algorithms](https://github.com/trekhleb/javascript-algorithms) - Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
-- [Eloquent JavaScript 3rd Edition](https://www.amazon.com/gp/product/1593279507/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 
 Agile
 
@@ -236,6 +242,7 @@ Interviews
 
 SDK Examples
 
+- [AWS CDK](https://github.com/aws/aws-cdk) - TS - AWS CDK (Cloud Development Kit) is written in Typescript but is transpiled into multiple languages using [JSII](https://github.com/aws/jsii).
 - [Node Slack SDK](https://github.com/slackapi/node-slack-sdk)- TS - Slack Developer Kit for Node.js
 - [AWS SDK JS](https://github.com/aws/aws-sdk-js) - JS - AWS SDK for JavaScript in the browser and Node.js.
 
@@ -276,6 +283,7 @@ Video Game Examples
 
 Cloud
 
+- [AWS](https://aws.amazon.com/) - Amazon Web Services.
 - [CircleCI](https://circleci.com/) - Automate your development process with CI hosted in the cloud or on a private server.
 - [Netlify](https://www.netlify.com/) - More speed. Less spend. 900,000+ developers & businesses use Netlify to run web projects at global scale—without servers, devops, or costly infrastructure.
 
