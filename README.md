@@ -191,11 +191,15 @@ Writing Code
 - 🌟 [Clean Code](https://www.amazon.com/gp/product/0132350882/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 - [The Pragmatic Programmer](https://www.amazon.com/gp/product/0135957052/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 
+Testing
+
+- 🌟 [Javascript Testing Best Practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - Great document containing best practices for testing javascript but they also apply to Typescript and almost every recommendation can be applied to any other language.
+- [UI Testing Best Practices](https://github.com/NoriSte/ui-testing-best-practices) - The largest UI testing best practices list (last update: May 2020) (work in progress)
+
 Frontend Design
 
 - 🌟 [Don't Make Me Think (3rd Edition)](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=sr_1_1?dchild=1&keywords=dont+make+me+think&qid=1592580370&sr=8-1)
 - 🌟 [The Design of Everyday Things: Revised and Expanded Edition](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654/ref=sr_1_1?crid=1646NDWGNM2FB&keywords=design+of+everyday+things&qid=1640292909&s=books&sprefix=design+of+%2Cstripbooks%2C148&sr=1-1) - A book that will help you understand what good design is like and how it differs from bad design.
-- [UI Testing Best Practices](https://github.com/NoriSte/ui-testing-best-practices) - The largest UI testing best practices list (last update: May 2020) (work in progress)
 
 Dashboard design
 
@@ -340,15 +344,12 @@ People to follow
 
 ## ✍️ VSCode
 
-- 🌟 [WallabyJS](https://wallabyjs.com/) - Wallaby.js is a developer productivity tool that runs your JavaScript and TypeScript tests immediately as you type, highlighting results in your IDE right next to your code.
+- 🌟 [GitHub Copilot](https://copilot.github.com/) - An AI extension that predicts code patterns and offers autocompletion. This is such a time saver.
 - 🌟 [Quokka](https://quokkajs.com/) - Quokka.js is a developer productivity tool for rapid JavaScript / TypeScript prototyping. Runtime values are updated and displayed in your IDE next to your code, as you type.
+- [WallabyJS](https://wallabyjs.com/) - Wallaby.js is a developer productivity tool that runs your JavaScript and TypeScript tests immediately as you type, highlighting results in your IDE right next to your code.
 - [WakaTime](https://wakatime.com/) - Open source plugins for metrics about your programming.
 - [VSCode Recipes](https://github.com/microsoft/vscode-recipes) - A collection of recipes for using VS Code with particular technologies.
 - [AWS CFN Lint Visual Studio Code](https://github.com/aws-cloudformation/aws-cfn-lint-visual-studio-code) - CloudFormation Linter integration, autocompletion, and documentation.
-
-MacOS only
-
-- 🌟 [Kite](https://kite.com/) - Kite is the AI assistant giving developers superpowers. Works with TS, JS, and Python.
 
 ---
 
@@ -356,17 +357,19 @@ MacOS only
 
 - 🌟 [Dashlane](https://www.dashlane.com/cs/Zhh7eiZKlCzm) - Everybody should have a password manager by now. Dashlane is a cross-platform subscription-based password manager and digital wallet application available on macOS, Windows, iOS and Android. It uses a Freemium pricing model which includes both a free tier and a premium subscription.
 - 🌟 [Tower](https://www.git-tower.com/windows) - The best Git client i've ever used. Over 100000 developers and designers are more productive with Tower - the most powerful Git client for Mac and Windows.
-- 🌟 [Krisp](https://krisp.ai/) - An AI powered application that removes background noise from both your microphone and your input audio. 120 minutes/week are free.
+- [Krisp](https://krisp.ai/) - An AI powered application that removes background noise from both your microphone and your input audio. 120 minutes/week are free.
 - [Recordit](https://recordit.co/) - Fast Screencasts
 - [Burp Suite](https://portswigger.net/burp) - A leading range of cybersecurity tools, brought to you by PortSwigger.
 
 MacOS only
 
-- [Alfred](https://www.alfredapp.com/) - Replaces the MacOS spotlight with more customization and an active plugin community.
-- [Muzzle](https://muzzleapp.com/) - A simple mac app that automatically silences embarrassing notifications when screen-sharing.
-- [Contexts](https://contexts.co/) - Switch between application windows effortlessly — with Fast Search, a better Command-Tab, a Sidebar or even a quick gesture. Includes fantastic features for multiple spaces & multiple displays.
-- [PixelSnap 2](https://getpixelsnap.com/) - The fastest tool for measuring anything on your screen.
+- 🌟 [Alfred](https://www.alfredapp.com/) - A replacement for MacOs's Spotlight. It allows you to install/create plugins to fit your work patterns. My favorite feature is that you can search clipboard history directly from spotlight. [_Check out my list of Alfred resources._](#Alfred)
+- 🌟 [Contexts](https://contexts.co/) - A replacement for MacOs's CMD + Tab interface. The reason I love this app is because it allows me to tab between windows of the same app (like multiple VSCode windows). Contexts also offers a convenient tab menu and more customization options of where and how windows behave.
+- 🌟 [CleanShot](https://cleanshot.com/) - A better screenshot/screen record tool that gives you more control on what is captured. This app offers fantastic editing options that native MacOs screenshot does not, such as blur, step annotations, highlighting, and pinning. It also offers a scrolling capture function which allows you to screenshot a webpage that is longer than your devices viewport.
+- 🌟 [PixelSnap 2](https://getpixelsnap.com/) - The fastest tool for measuring anything on your screen. This is a must have for UI development.
+- [HazeOver](https://hazeover.com/) - A MacOS app that automatically dims inactive windows to help keep you focused.
 - [Sketch](https://www.sketchapp.com/) - Create, prototype, collaborate, and bring your ideas to life with the design platform used by over one million people — from freelancers, to the world’s largest teams.
+- [Muzzle](https://muzzleapp.com/) - A simple mac app that automatically silences embarrassing notifications when screen-sharing.
 
 ---
 
@@ -512,6 +515,10 @@ When someone posts a link to your site on a social media network a social card i
 
 ## 📦 Modules/Packages
 
+General
+
+- [RimRaf](https://github.com/isaacs/rimraf) - A simple, fast, and reliable utility for removing files and directories and it's OS agnostic. There's almost always an output folder in every project RimRaf is a good way to clean up those outputs. I usually add a script to the `package.json` to easily run this e.g. `"clean": "rimraf build cdk.out .next"`.
+
 Package management
 
 - [Patch Package](https://github.com/ds300/patch-package) - Lets app authors instantly make and keep fixes to npm dependencies. It's a vital band-aid for those of us living on the bleeding edge.
@@ -542,7 +549,6 @@ GraphQL
 
 Data Generation
 
-- [Faker](https://github.com/Marak/faker.js) - Generate massive amounts of realistic fake data in Node.js and the browser.
 - [Chance](https://github.com/chancejs/chancejs) - Generate random numbers, characters, strings, names, addresses, dice, and pretty much anything else.
 
 Converters
