@@ -30,7 +30,7 @@ Items marked with `🌟` are highly recommended.
   - [🔧 Chrome Dev Tools](#-chrome-dev-tools)
   - [🔏 JSON Schema](#-json-schema)
   - [🔏 OpenAPI](#-openapi)
-  - [:eyes: Design](#eyes-design)
+  - [🫖 Design](#-design)
     - [:bulb: Design Inspiration](#bulb-design-inspiration)
     - [:abacus: Data Visualizations](#abacus-data-visualizations)
     - [:art: Color Pallet Design](#art-color-pallet-design)
@@ -59,10 +59,13 @@ Items marked with `🌟` are highly recommended.
 
 ## :computer: Courses
 
+I love to learn. I remember going to college and struggling to find classes that taught me the programming I was interested in. Fortunately in the last few years online courses for development has not only become more available, but the quality of courses has improved dramatically. I've been so lucky to stumble upon the amazing courses listed below, they not only inspire me but more importantly they offer a course structure that is better what i've seen from most universities. The courses i've listed here will teach you the latest industry knowledge from experts that currently work in the industry. Most of these courses require payment however you shouldn't need to take out a student loan 🤕. One other huge benefit of picking up any of the courses is that they all include access to some sort of community, either through a Slack channel or Discord. So not only will you be able to ask for help, you'll also be able to connect with the instructor, help others, network, and share feedback on projects you're building using your new found knowledge.
+
 Frontend
 
 - 🌟 [CSS for JS developers](https://css-for-js.dev/) - Josh C. Comeau teaches you modern CSS and how to create accessible, animated, thoughtful front ends. By far the best online course design i've ever experienced. It took me 6 months of casual progress to complete, but it can be completed in around 30 hours (10 modules * 3 hours). I loved it so much that I might even consider going through it again to absorb things I may have missed/forgotten.
 - 🌟 [Design for Developers](https://frontendmasters.com/courses/design-for-developers/) - Sarah Drasner teaches you the foundations of design, color theory, patterns, typography, and more. This was a great introduction to design and I loved it.
+- [Three.js Journey](https://threejs-journey.com/) - This course is the best i've seen if you're looking to learn about Three.js. Guided by Bruno Simmon's it looks incredible. The detail on the course's site is a preview of what you'll soon be able to achieve. The course offers 5 chapters / 39 lessons / 45 hours of video content (or a textual guide if you prefer). Even if you're not interested in game development this course should give you an edge that will allow you to sprinkle a little magic into the standard UI and give your next website a wow factor that makes it stand out.
 - [Testing Javascript](https://testingjavascript.com/) - Kent C. Dodds teaches you how to write clean, efficient, elegant tests for your JavaScript applications. I haven't completed this course but i'm excited to start.
 - [Epic React](https://epicreact.dev/) - Kent C. Dodds teaches you how to use React to build top tier web apps. I haven't completed this course but i'm excited to start.
 
@@ -80,10 +83,10 @@ Organizations
 
 Developers
 
-- [Gleb](https://glebbahmutov.com/blog/) - Quality and testing
-- 🌟 [Kent C. Dodds](https://kentcdodds.com/) - Software quality
 - 🌟 [Josh C. Comeau](https://www.joshwcomeau.com/) - One of the best blog designs i've seen. Josh incorporates sound, hit counters, and other fancy tricks in his blog design. His actual content is solid and I highly recommend it to everyone.
-- [Robert C. Martin (Uncle Bob)](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html) - Software quality, architecture and design.
+- 🌟 [Bruno Simon](https://bruno-simon.com/) - Bruno's blog is like a video game. Built using Threejs you traverse as a little toy monster truck exploring his projects and knocking over bowling pins. This blog is so creative it might just inspire you to learn more about ThreeJS of which he provides a comprehensive course for!
+- 🌟 [Kent C. Dodds](https://kentcdodds.com/) - Software quality
+- [Gleb](https://glebbahmutov.com/blog/) - Quality and testing
 - [Zach Leatherman](https://www.zachleat.com/) - Zach is a builder for the web with Netlify. He’s currently fixated on web fonts and static site generators.
 
 Resources
@@ -261,7 +264,7 @@ GraphQL Examples
 
 Web Design Examples
 
-- :star: [Josh Comeau's blog](https://www.joshwcomeau.com/) - One of the best blog designs i've seen. Josh incorporates sound, hit counters, and other fancy tricks in his blog design. His actual content are solid and some go into detail on how he added some of his blogs coolest features. I highly recommend it to everyone.
+- 🌟 [Josh Comeau's blog](https://www.joshwcomeau.com/) - One of the best blog designs i've seen. Josh incorporates sound, hit counters, and other fancy tricks in his blog design. His actual content are solid and some go into detail on how he added some of his blogs coolest features. I highly recommend it to everyone.
 
 - [RallyInteractive](https://rallyinteractive.com/) - Rally is a small digital product studio in Salt Lake City, Utah. We're an experienced team of designers & developers, partnering with brands like Google, Nike, and National Geographic since 2011.
 
@@ -288,6 +291,7 @@ Video Game Examples
 Cloud
 
 - [AWS](https://aws.amazon.com/) - Amazon Web Services.
+- 🌟 [Vercel](https://aws.amazon.com/) - Vercel is an excellent option if you're building with a framework like NextJS. It's cheap, comes with a lot of optimizations, and easy to setup. I've noticed that some of the image optimizations that Vercel does with Next/Image components would take a long time to setup from scratch in something like AWS.
 - [CircleCI](https://circleci.com/) - Automate your development process with CI hosted in the cloud or on a private server.
 - [Netlify](https://www.netlify.com/) - More speed. Less spend. 900,000+ developers & businesses use Netlify to run web projects at global scale—without servers, devops, or costly infrastructure.
 
@@ -305,6 +309,7 @@ Machine Learning
 
 Testing
 
+- 🌟 [Chromatic](https://www.chromatic.com/) - Chromatic is a visual regression testing tool for storybook. This is a must if you've put the work into writing stories for you components. When new code is pushed Chromatic will automatically genereate image diffs from the new vs old stories. If a diff is found it will wait for a reviewer to approve before replacing the baseline.
 - [Page Speed Insights](https://developers.google.com/speed/pagespeed/insights/) - PageSpeed Insights analyzes the content of a web page, then generates suggestions to make that page faster.
 - [EggPlant](https://www.eggplantsoftware.com/) - Applying Artificial Intelligence and Machine Learning to move from predominantly manual Quality Assurance to automated QA helps support a new culture of working, to help you deliver DevOps at scale and optimize your User' Experiences (UX).
 
@@ -420,7 +425,7 @@ Package Libraries
 
 ---
 
-## :eyes: Design
+## 🫖 Design
 
 ### :bulb: Design Inspiration
 
