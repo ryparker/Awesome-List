@@ -41,7 +41,8 @@ Items marked with `🌟` are highly recommended.
     - [:thumbsup: Icon Design](#thumbsup-icon-design)
     - [:ticket: Social Cards](#ticket-social-cards)
     - [:framed_picture: Image Optimization](#framed_picture-image-optimization)
-    - [:jigsaw: Design Libraries](#jigsaw-design-libraries)
+    - [🎨 Design Libraries](#-design-libraries)
+    - [:jigsaw: Component Libraries](#jigsaw-component-libraries)
     - [:money_with_wings: UI Kits](#money_with_wings-ui-kits)
     - [:curly_loop: Typography](#curly_loop-typography)
   - [:card_index_dividers: SEO](#card_index_dividers-seo)
@@ -59,13 +60,13 @@ Items marked with `🌟` are highly recommended.
 
 ## :computer: Courses
 
-I love to learn. I remember going to college and struggling to find classes that taught me the programming I was interested in. Fortunately in the last few years online courses for development has not only become more available, but the quality of courses has improved dramatically. I've been so lucky to stumble upon the amazing courses listed below, they not only inspire me but more importantly they offer a course structure that is better what i've seen from most universities. The courses i've listed here will teach you the latest industry knowledge from experts that currently work in the industry. Most of these courses require payment however you shouldn't need to take out a student loan 🤕. One other huge benefit of picking up any of the courses is that they all include access to some sort of community, either through a Slack channel or Discord. So not only will you be able to ask for help, you'll also be able to connect with the instructor, help others, network, and share feedback on projects you're building using your new found knowledge.
+I love to learn. I remember going to college and struggling to find classes that would teach me the programming that I was interested in. Fortunately in the last few years online courses for development has not only become more available, but the quality of courses has improved dramatically. I've been so lucky to stumble upon the amazing courses listed below, they not only inspire me, but more importantly they offer a course structure that is better then what i've seen from most universities. The courses i've listed here will teach you the latest industry knowledge from experts that currently work in the industry. Most of these courses require payment however you shouldn't need to take out a student loan 🤕. One other huge benefit of picking up any of the courses is that they all include access to some sort of community, either through a Slack channel or Discord. So not only will you be able to ask for help, you'll also be able to connect with the instructor, help others, network, and share feedback on projects you're building using your new found knowledge.
 
 Frontend
 
 - 🌟 [CSS for JS developers](https://css-for-js.dev/) - Josh C. Comeau teaches you modern CSS and how to create accessible, animated, thoughtful front ends. By far the best online course design i've ever experienced. It took me 6 months of casual progress to complete, but it can be completed in around 30 hours (10 modules * 3 hours). I loved it so much that I might even consider going through it again to absorb things I may have missed/forgotten.
 - 🌟 [Design for Developers](https://frontendmasters.com/courses/design-for-developers/) - Sarah Drasner teaches you the foundations of design, color theory, patterns, typography, and more. This was a great introduction to design and I loved it.
-- [Three.js Journey](https://threejs-journey.com/) - This course is the best i've seen if you're looking to learn about Three.js. Guided by Bruno Simmon's it looks incredible. The detail on the course's site is a preview of what you'll soon be able to achieve. The course offers 5 chapters / 39 lessons / 45 hours of video content (or a textual guide if you prefer). Even if you're not interested in game development this course should give you an edge that will allow you to sprinkle a little magic into the standard UI and give your next website a wow factor that makes it stand out.
+- [Three.js Journey](https://threejs-journey.com/) - This course is the best i've seen if you're looking to learn about Three.js. Guided by Bruno Simmon's, this course offers 5 chapters / 39 lessons / 45 hours of video content (or a textual guide if you prefer). Even if you're not interested in game development this course should give you an edge that will allow you to sprinkle a little magic into the standard UI and give your next website a wow factor that makes it stand out.
 - [Testing Javascript](https://testingjavascript.com/) - Kent C. Dodds teaches you how to write clean, efficient, elegant tests for your JavaScript applications. I haven't completed this course but i'm excited to start.
 - [Epic React](https://epicreact.dev/) - Kent C. Dodds teaches you how to use React to build top tier web apps. I haven't completed this course but i'm excited to start.
 
@@ -86,7 +87,7 @@ Developers
 - 🌟 [Josh C. Comeau](https://www.joshwcomeau.com/) - One of the best blog designs i've seen. Josh incorporates sound, hit counters, and other fancy tricks in his blog design. His actual content is solid and I highly recommend it to everyone.
 - 🌟 [Bruno Simon](https://bruno-simon.com/) - Bruno's blog is like a video game. Built using Threejs you traverse as a little toy monster truck exploring his projects and knocking over bowling pins. This blog is so creative it might just inspire you to learn more about ThreeJS of which he provides a comprehensive course for!
 - 🌟 [Kent C. Dodds](https://kentcdodds.com/) - Software quality
-- [Gleb](https://glebbahmutov.com/blog/) - Quality and testing
+- [Gleb Bahmutov PhD](https://glebbahmutov.com/blog/) - Quality and testing
 - [Zach Leatherman](https://www.zachleat.com/) - Zach is a builder for the web with Netlify. He’s currently fixated on web fonts and static site generators.
 
 Resources
@@ -486,13 +487,24 @@ When someone posts a link to your site on a social media network a social card i
 - [99Designs - Image file types](https://99designs.com/blog/tips/image-file-types/) - To the point explanation of when to use which image file format.
 - [TinyJPG](https://tinyjpg.com/) - TinyJPG reduces the file size of your JPEG images. Every uploaded image is analyzed to apply the best possible JPEG encoding. Based on the content of your image an optimal strategy is chosen. The result is a quality image without wasting storage or bandwidth!
 
-### :jigsaw: Design Libraries
+### 🎨 Design Libraries
 
 - [Styled Components](https://styled-components.com/) - The best design library is your own. Having full flexibility to modify any presentation to your will is a difference maker.
+
+### :jigsaw: Component Libraries
+
+Although component libraries such as Material UI and Google Material Design are very convenient I try to steer clear of them. Component libraries are typically designed for a specific purpose or brand. When i've seen projects adopt these pre-designed components they eventually hit a wall where they can't get something to look exactly how they'd like and so they start to make compromises on their design. Teams usually fall into this trap because component libraries are battle tested, well documented and have a lot of examples. However you can get the best of both worlds here, by using unstyled component libraries that focus on great accessibility and performance.
+
+- 🌟 [Radix Primitives](https://www.radix-ui.com/docs/primitives/overview/introduction) - Similar to ReachUI, An open-source UI component library for building high-quality, accessible design systems and web apps.
+- 🌟 [ReachUI](https://reach.tech/) - Provides unstyled base components that come with great accessibility and performance. All you have to do is style them to fit your design.
+
+<!-- I do not recommend the following but I want to keep them in this document for tracking purposes:
 - [Material UI](https://material-ui.com/) - React components for faster and easier web development. Build your own design system, or start with Material Design.
+- [Google Material Design](https://material.io/) - A design system build by and for Google.
 - [Ant Design](https://ant.design/) - A design system for enterprise-level products. Create an efficient and enjoyable work experience.
 - [Semantic UI](https://semantic-ui.com/) - Semantic is a development framework that helps create beautiful, responsive layouts using human-friendly HTML.
 - [Chakra](https://chakra-ui.com/) - A simple, modular and accessible component library that gives you the building blocks you need to build your React applications.
+-->
 
 ### :money_with_wings: UI Kits
 
