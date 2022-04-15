@@ -14,6 +14,7 @@ Items marked with `🌟` are highly recommended.
   - [:computer: Courses](#computer-courses)
   - [📰 Blogs](#-blogs)
   - [:briefcase: Career](#briefcase-career)
+  - [🧑‍🎓 Interview Prep](#-interview-prep)
   - [🕷️ Bug Bounties](#️-bug-bounties)
   - [:new: Feature Bounties](#new-feature-bounties)
   - [📺 Videos](#-videos)
@@ -114,8 +115,16 @@ Community platforms
 
 - [Levels.fyi](https://levels.fyi/) - Compare big tech salaries across companies and positions. They also offer paid negotiation coaching with ex-recruiters that will help you get the best possible offer. I purchased 3 sessions and they helped me improve my offer by about 30%. I highly recommend paying for this if you're interviewing at a big tech company.
 - [PayScale](https://www.payscale.com/) - Gain the insights and confidence to get pay right with relevant, validated salary data and industry-leading, AI-powered compensation software.
+- [Angel](https://angel.co/jobs) - Angel is a platform for hiring and connecting with top tech talent.
 
 ---
+
+## 🧑‍🎓 Interview Prep
+
+- [Techie Delight](https://www.techiedelight.com/) - Whiteboard interview prep. Practice solving real interview problems using search algorithms, data structures, and other techniques.
+- [Algo Monster](https://algo.monster/) - Similar to Techie Delight but with different questions and approaches.
+- [Big-O Cheat Sheet](https://www.bigocheatsheet.com/) - A cheat sheet to help you calculate time complexity.
+- [LeetCode](https://leetcode.com/) - I think LeetCode is a bit overrated but it's a great place to practice coding interview questions. Just don't spend all day here.
 
 ## 🕷️ Bug Bounties
 
