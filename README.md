@@ -116,6 +116,7 @@ Community platforms
 - [Levels.fyi](https://levels.fyi/) - Compare big tech salaries across companies and positions. They also offer paid negotiation coaching with ex-recruiters that will help you get the best possible offer. I purchased 3 sessions and they helped me improve my offer by about 30%. I highly recommend paying for this if you're interviewing at a big tech company.
 - [PayScale](https://www.payscale.com/) - Gain the insights and confidence to get pay right with relevant, validated salary data and industry-leading, AI-powered compensation software.
 - [Angel](https://angel.co/jobs) - Angel is a platform for hiring and connecting with top tech talent.
+- [Blind](https://www.teamblind.com/) - Blind is a social media platform for people who work at large tech companies. This is an excellent resource for hiring and connecting. It is a social media platform which means there are a lot of trolls and junk. Don't say I didn't warn you.
 
 ---
 
