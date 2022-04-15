@@ -118,8 +118,6 @@ Community platforms
 - [Angel](https://angel.co/jobs) - Angel is a platform for hiring and connecting with top tech talent.
 - [Blind](https://www.teamblind.com/) - Blind is a social media platform for people who work at large tech companies. This is an excellent resource for hiring and connecting. It is a social media platform which means there are a lot of trolls and junk. Don't say I didn't warn you.
 
----
-
 ## 🧑‍🎓 Interview Prep
 
 - [Techie Delight](https://www.techiedelight.com/) - Whiteboard interview prep. Practice solving real interview problems using search algorithms, data structures, and other techniques.
