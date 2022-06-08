@@ -15,6 +15,7 @@ Items marked with `🌟` are highly recommended.
   - [📰 Blogs](#-blogs)
   - [:briefcase: Career](#briefcase-career)
   - [🧑‍🎓 Interview Prep](#-interview-prep)
+  - [Bug Boards](#bug-boards)
   - [🕷️ Bug Bounties](#️-bug-bounties)
   - [:new: Feature Bounties](#new-feature-bounties)
   - [📺 Videos](#-videos)
@@ -61,15 +62,15 @@ Items marked with `🌟` are highly recommended.
 
 ## :computer: Courses
 
-I love to learn. I remember going to college and struggling to find classes that would teach me the programming that I was interested in. Fortunately in the last few years online courses for development has not only become more available, but the quality of courses has improved dramatically. I've been so lucky to stumble upon the amazing courses listed below, they not only inspire me, but more importantly they offer a course structure that is better then what i've seen from most universities. The courses i've listed here will teach you the latest industry knowledge from experts that currently work in the industry. Most of these courses require payment however you shouldn't need to take out a student loan 🤕. One other huge benefit of picking up any of the courses is that they all include access to some sort of community, either through a Slack channel or Discord. So not only will you be able to ask for help, you'll also be able to connect with the instructor, help others, network, and share feedback on projects you're building using your new found knowledge.
+One huge benefit of picking up any of the following courses is that they all include access to some sort of community, either through a Slack channel or Discord. So not only will you be able to ask for help, you'll also be able to connect with the instructor, help others, network, and share feedback.
 
 Frontend
 
-- 🌟 [CSS for JS developers](https://css-for-js.dev/) - Josh C. Comeau teaches you modern CSS and how to create accessible, animated, thoughtful front ends. By far the best online course design i've ever experienced. It took me 6 months of casual progress to complete, but it can be completed in around 30 hours (10 modules * 3 hours). I loved it so much that I might even consider going through it again to absorb things I may have missed/forgotten.
+- 🌟 [CSS for JS developers](https://css-for-js.dev/) - Josh C. Comeau teaches you modern CSS and how to create accessible, animated, thoughtful front ends. By far the best online course design i've ever experienced. It took me 6 months of casual progress to complete, but it can be completed in around 30 hours (10 modules * 3 hours). I might even consider going through it again to pickup on lessons that I may have missed or forgotten.
 - 🌟 [Design for Developers](https://frontendmasters.com/courses/design-for-developers/) - Sarah Drasner teaches you the foundations of design, color theory, patterns, typography, and more. This was a great introduction to design and I loved it.
 - [Three.js Journey](https://threejs-journey.com/) - This course is the best i've seen if you're looking to learn about Three.js. Guided by Bruno Simmon's, this course offers 5 chapters / 39 lessons / 45 hours of video content (or a textual guide if you prefer). Even if you're not interested in game development this course should give you an edge that will allow you to sprinkle a little magic into the standard UI and give your next website a wow factor that makes it stand out.
-- [Testing Javascript](https://testingjavascript.com/) - Kent C. Dodds teaches you how to write clean, efficient, elegant tests for your JavaScript applications. I haven't completed this course but i'm excited to start.
-- [Epic React](https://epicreact.dev/) - Kent C. Dodds teaches you how to use React to build top tier web apps. I haven't completed this course but i'm excited to start.
+- [Testing Javascript](https://testingjavascript.com/) - Kent C. Dodd's designed this. Kent teaches you how to write clean, efficient, elegant tests for your JavaScript applications. I haven't completed this course but i'm excited to start.
+- [Epic React](https://epicreact.dev/) - Kent C. Dodds also created this React course that teaches best practices when developing build top tier web apps. I haven't completed this course but i'm excited to start.
 
 ---
 
@@ -124,6 +125,13 @@ Community platforms
 - [Algo Monster](https://algo.monster/) - Similar to Techie Delight but with different questions and approaches.
 - [Big-O Cheat Sheet](https://www.bigocheatsheet.com/) - A cheat sheet to help you calculate time complexity.
 - [LeetCode](https://leetcode.com/) - I think LeetCode is a bit overrated but it's a great place to practice coding interview questions. Just don't spend all day here.
+
+## Bug Boards
+
+- [Safari/Webkit](https://bugs.webkit.org/describecomponents.cgi?product=WebKit)
+- [Mozilla](https://bugzilla.mozilla.org/)
+- [Linux](https://bugzilla.kernel.org/)
+- [Apache](https://bz.apache.org/bugzilla/)
 
 ## 🕷️ Bug Bounties
 
